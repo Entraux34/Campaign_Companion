@@ -1,0 +1,50 @@
+body, html, h1, h2, h3, h4, p, ul, ol, li, a {
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+body {
+	padding: 20px 20px 20px 20px;
+}
+h1 {
+	padding: 20px 0px 15px 0px;
+	color: #5F3A19;
+	border-bottom: 4px solid black;
+	text-align: center;
+}
+h2 {
+	padding: 15px 0px 10px 0px;
+	color: #7F5A39;
+	border-bottom: 2px solid black;
+	text-align: center;
+}
+h3 {
+	padding: 10px 0px 5px 0px;
+	color: #9F7A59;
+}
+.nav {
+	text-align: center;
+	border-bottom: 1px solid black;
+}
+.nav li {
+	display: inline;
+	padding: 0px 25px 0px 25px;
+}
+a {
+	text-decoration: none;
+	color: dimgray;
+}
+a:hover {
+	text-decoration: underline;
+	color: red;
+}
+ol {
+	padding-left: 50px;
+}
+.header {
+	border: 2px solid black;
+}
+.sub-header {
+	width: 750px;
+	margin: 20 auto 0 auto;
+}

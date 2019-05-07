@@ -1,0 +1,16 @@
+ID,Name,Type,Rarity,Value
+1,Arrows(x24),Ammunition,25,1gp
+2,Bolts(x24),Ammunition,25,1gp
+3,Handaxe,Weapon,25,5gp
+4,Javelin(x4) ,Weapon,50,10sp
+5,Dagger,Weapon,40,2gp
+6,sp(x50),Money,10,5gp
+7,gp(x10),Money,5,10gp
+8,Wooden Shield,Shield,5,10gp
+9,Bedroll,Gear,10,1gp
+10,Candle(x25),Gear,15,25cp
+11,Common Clothes,Gear,20,5sp
+12,Crowbar,Gear,25,2gp
+13,Quiver,Gear,20,1gp
+14,Ropes,Gear,10,1gp
+15,Tent (2 person),Gear,10,2gp
